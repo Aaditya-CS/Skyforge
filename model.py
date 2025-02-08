@@ -3,7 +3,7 @@ import itertools
 
 DB_NAME = "skyforge"
 DB_USER = "kolden"
-DB_PASS = "Jaswanthsudharsan007"
+DB_PASS = ""
 DB_HOST = "localhost"
 DB_PORT = "5432"
 
